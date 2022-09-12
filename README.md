@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/Abgmz/fm-time-tracking-dashboard-solution](https://github.com/Abgmz/fm-time-tracking-dashboard-solution)
+- Live Site URL: [https://fm-tt-dashboard.netlify.app/](https://fm-tt-dashboard.netlify.app/)
 
 
 ### Built with
